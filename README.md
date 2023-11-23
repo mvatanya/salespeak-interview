@@ -1,1 +1,2 @@
-API: https://www.googleapis.com/books/v1/volumes?q=artificial%20intelligence&maxResults=10
+To run locally, run: `npm install`
+To start the server, run `npm start`
